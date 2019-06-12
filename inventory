@@ -1,0 +1,8 @@
+[vpc_kiran]
+localhost
+
+[project:children]
+vpc_kiran
+
+#[project:vars]
+#ansible_connection=local
